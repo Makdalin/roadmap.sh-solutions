@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name CV</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Your Name</h1>
+    <p style="text-align: center;">Full Stack Developer | Web Designer | AI Enthusiast</p>
+
+    <h2>Experience</h2>
+    <ul>
+        <li>
+            <strong>Full Stack Developer - XYZ Company</strong> (March 2023 - Present)<br>
+            Worked on building scalable and responsive web applications using React, Node.js, and MongoDB. Led the development team and collaborated with cross-functional teams.
+        </li>
+        <li>
+            <strong>Web Developer Intern - ABC Corp</strong> (June 2022 - August 2022)<br>
+            Developed and maintained front-end and back-end features using HTML, CSS, JavaScript, and PHP. Gained exposure to agile methodologies.
+        </li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+        <li>
+            <strong>Bachelor of Computer Applications (BCA)</strong> - XYZ University (2025) <br>
+            Studying various programming languages including Python, Java, and C. Focused on full-stack development and machine learning.
+        </li>
+        <li>
+            <strong>High School</strong> - XYZ High School (2020) <br>
+            Graduated with distinction in Science and Mathematics.
+        </li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Front-End Development: HTML, CSS, JavaScript, React</li>
+        <li>Back-End Development: Node.js, Express, MongoDB, PHP</li>
+        <li>Programming Languages: Python, Java, C</li>
+        <li>Version Control: Git, GitHub</li>
+        <li>Tools: VS Code, Docker, Postman</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your.name@example.com">yourname@example.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourname" target="_blank">linkedin.com/in/yourname </a></p>
+    <p>Phone: +1234567890</p>
+</body>
+</html>
